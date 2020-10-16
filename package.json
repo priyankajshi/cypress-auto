@@ -1,0 +1,14 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "Automation framework using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "priyanka.joshi",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.4.0"
+  }
+}
